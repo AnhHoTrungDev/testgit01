@@ -1,1 +1,2 @@
 trung anh dep trai vkl
+fix 1.0
